@@ -8,7 +8,7 @@
 * 🤹 Fun fact: I mostly like to apply my knowledge to real-life projects
 * ☕ Coffee addicted & Music lover
 
-<h2>📈 &nbsp;Some Github Stats</h2>
+<h2>📈 &nbsp;Activities</h2>
 <div>
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=Michael Njoroge&theme=chartreuse-dark&hide_border=true&area=true" alt="Samitha's Activity Graph" width="100%"> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael Njoroge&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" > -->
