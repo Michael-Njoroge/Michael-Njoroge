@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Michael Njoroge</b>
-## I'm Passionate about Fullstack / Frontend Development & UI/UX Design 💻❤️
-* 📘 I’m currently Learning at Maseno University
-* 💻 I’m currently studying Bachelor of Science in Information Technology
+## I'm Passionate about Fullstack Development 💻❤️
+* 📘 Curently Graduated from Maseno University
+* 💻 Studied Bachelor of Science in Information Technology
 * 😍 I’m looking to Collaborate with other developers & knowledge sharing
 * 🎯 2023 Goals: Contribute more to Open Source projects
 * ☁️ I’m willing to expand my knowledge in Mobile Development & Cloud Technologies
