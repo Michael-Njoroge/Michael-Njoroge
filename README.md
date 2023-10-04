@@ -10,9 +10,9 @@
 
 <h2>📈 &nbsp;Activities</h2>
 <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Michael Njoroge&theme=chartreuse-dark&hide_border=true&area=true" alt="Samitha's Activity Graph" width="100%"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael Njoroge&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=michaelnjoroge&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Github Activity" width="49%">
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=Michael Njoroge&theme=chartreuse-dark&hide_border=true&area=true" alt="Samitha's Activity Graph" width="100%"> --> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael Njoroge&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" > -->
+    <img src="https://github-readme-stats.vercel.app/api?username=michaelnjoroge&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=false" alt="Github Activity" width="49%">
 </div>
 
 <h2>  💻 Technologies & Tools: </h2>
