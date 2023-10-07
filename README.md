@@ -14,8 +14,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Njoroge&theme=chartreuse-dark&hide_border=true" alt="Michael's Streak" width="49%" >
     <img src="https://github-readme-stats.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=false&hide_border=false&count_private=false" alt="Github Activity" width="49%">
  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
-<a href="https://www.buymeacoffee.com/itsbalajid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajidharma&layout=compact&count_private=true&theme=gruvbox" />
 </div>
 
 <h2>  💻 Technologies & Tools: </h2>
