@@ -25,7 +25,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-CB3837?style=flat-square&logo=laravel&logoColor=white" />
-<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F7B93E?style=flat-square&logo=laravel&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-F7B93E?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP&logoColor=white" />
 <!--     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> -->
