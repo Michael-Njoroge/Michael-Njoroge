@@ -34,7 +34,7 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>  
     <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-<!--     <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /> -->
+    <img alt="Networking" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /> 
     <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
