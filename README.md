@@ -3,7 +3,7 @@
 * 📘 Graduated from Maseno University
 * 💻 Studied Bachelor of Science in Information Technology
 * 😍 I’m looking to Collaborate with other developers & knowledge sharing
-* 🎯 2024 Goals: Contribute more to Open Source projects
+* 🎯 My 2024 Goals: Contribute more to Open Source projects
 * ☁️ I’m willing to expand my knowledge in Mobile Development & Cloud Technologies
 * 🤹 Fun fact: I mostly like to apply my knowledge to real-life projects
 * ☕ Coffee addicted & Music lover
