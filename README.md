@@ -1,5 +1,5 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Michael Njoroge</b>
-## I'm Passionate PHP,Laravel,Node Js,Express Js and React Developer 💻❤️
+## I'm Passionate Laravel/Node and Vue/React Developer 💻❤️
 * 📘 Graduated from Maseno University
 * 💻 Studied Bachelor of Science in Information Technology
 * 😍 I’m looking to Collaborate with other developers & knowledge sharing
