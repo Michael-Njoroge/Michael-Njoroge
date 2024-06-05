@@ -13,9 +13,8 @@
  
   <a href="mailto:mikethecoder12@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/michael-njoroge-552a1a265/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-     <a href=" https://github.com/Michael-Njoroge" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://wa.me/+254716002152?text=Check%20out%20my%20LinkedIn%20profile:%20https://www.linkedin.com/in/michael-njoroge-552a1a265/,%20and%20my%20GitHub%20profile:%20https://github.com/Michael-Njoroge" target="_blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/Share%20on%20WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
   
