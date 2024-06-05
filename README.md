@@ -9,17 +9,13 @@
 * ☕ Coffee addicted & Music lover
 
 <h2>🎯 Let's Keep in Touch:</h2>
-<p>
+<center>
   <a href="mailto:mikethecoder12@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/michael-njoroge-552a1a265/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
  <a href="https://wa.me/+254716002152,%20and%20my%20GitHub%20profile:%20https://github.com/Michael-Njoroge" target="_blank" rel="noopener noreferrer">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-  
- 
-
-</p>
+</center>
 
 <h2>📈 &nbsp;Activities</h2>
 <div>
