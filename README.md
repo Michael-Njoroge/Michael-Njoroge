@@ -1,5 +1,5 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Michael Njoroge</b>
-## Everything PHP, Laravel, JavaScript, and Vue related. 💻❤️
+## Everything PHP, Laravel, JavaScript, and Vue related 💻❤️
 * 📘 Graduated from Maseno University
 * 💻 Studied Bachelor of Science in Information Technology
 * 😍 I’m looking to Collaborate with other developers & knowledge sharing
