@@ -1,12 +1,15 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Michael Njoroge</b>
 ## Everything PHP, Laravel, JavaScript, and Vue related 💻❤️
-* 📘 Graduated from Maseno University
-* 💻 Studied Bachelor of Science in Information Technology
-* 😍 I’m looking to Collaborate with other developers & knowledge sharing
-* 🎯 My 2024 Goals: Contribute more to Open Source projects
-* ☁️ I’m willing to expand my knowledge in Mobile Development & Cloud Technologies
-* 🤹 Fun fact: I mostly like to apply my knowledge to real-life projects
-* ☕ Coffee addicted & Music lover
+<h5>📚 2025 Goals:</h5>
+  * 🌍 Contributing more to open-source projects
+  * 📱 Expanding my expertise in mobile development & cloud technologies
+  * 💻 Focusing on everything PHP, Laravel, JavaScript, and Vue-related
+  * 🚀 Applying my skills to real-life, impactful projects
+
+  <h5>🌟 Interests:<h5/>
+    🤝 Collaborating with developers & sharing knowledge
+    ☕ Coffee enthusiast
+    🎶 Music lover
 
 <h2>🎯 Let's Keep in Touch:</h2>
 <center>
