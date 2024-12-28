@@ -6,7 +6,7 @@
 * 💻 Focusing on everything PHP, Laravel, JavaScript, and Vue-related
 * 🚀 Applying my skills to real-life, impactful projects
   
-🎯 Interests:
+🌟 Interests:
 * 🤝 Collaborating with developers & sharing knowledge
 * ☕ Coffee enthusiast
 * 🎶 Music lover
