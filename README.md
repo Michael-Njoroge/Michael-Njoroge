@@ -1,5 +1,5 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Michael Njoroge</b>
-## Everything PHP, Laravel, JavaScript, and Vue related 💻❤️
+## 🐱‍💻 Coding my way through PHP(Laravel), JavaScript(Vue)! 💖
 📚 2025 Goals:
 * 🌍 Contributing more to open-source projects
 * 📱 Expanding my expertise in mobile development & cloud technologies
