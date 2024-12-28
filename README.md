@@ -1,16 +1,15 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Michael Njoroge</b>
 ## Everything PHP, Laravel, JavaScript, and Vue related 💻❤️
-<h5>📚 2025 Goals:</h5>
-  * 🌍 Contributing more to open-source projects
-  * 📱 Expanding my expertise in mobile development & cloud technologies
-  * 💻 Focusing on everything PHP, Laravel, JavaScript, and Vue-related
-  * 🚀 Applying my skills to real-life, impactful projects
-
-  <h5>🌟 Interests:<h5/>
-    🤝 Collaborating with developers & sharing knowledge
-    ☕ Coffee enthusiast
-    🎶 Music lover
-
+📚 2025 Goals:
+* 🌍 Contributing more to open-source projects
+* 📱 Expanding my expertise in mobile development & cloud technologies
+* 💻 Focusing on everything PHP, Laravel, JavaScript, and Vue-related
+* 🚀 Applying my skills to real-life, impactful projects
+  
+🎯 Interests:
+* 🤝 Collaborating with developers & sharing knowledge
+* ☕ Coffee enthusiast
+* 🎶 Music lover
 <h2>🎯 Let's Keep in Touch:</h2>
 <center>
   <a href="mailto:mikethecoder12@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
