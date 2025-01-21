@@ -27,7 +27,8 @@
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Njoroge&theme=chartreuse-dark&hide_border=true" alt="Michael's Streak" width="49%" >
     <img src="https://github-readme-stats.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=false&hide_border=false&count_private=false" alt="Github Activity" width="49%">
- 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Njoroge)](https://git.io/streak-stats)
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Njoroge&layout=compact&count_private=true&theme=gruvbox" />
 </div>
 
