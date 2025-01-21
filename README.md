@@ -22,7 +22,7 @@
 
 <h2>📈 &nbsp;Activities</h2>
 <div>
-<img src="https://streak-stats.demolab.com/?user=Michael-Njoroge&theme=chartreuse-dark&hide_border=true&area=true" alt="Michael's Activity Graph" width="100%">
+<img src="https://streak-stats.demolab.com/?user=Michael-Njoroge" alt="Michael's Activity Graph" width="49%">
   
 
  <img src="https://streak-stats.demolab.com/?user=Michael-Njoroge" alt="Michael's Streak" width="49%" >
