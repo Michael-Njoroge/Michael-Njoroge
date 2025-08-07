@@ -22,10 +22,13 @@
 
 <h2>📈 &nbsp;Activities</h2>
 <div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Njoroge&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Michael-Njoroge&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
+  </a>
   <img src="https://github-readme-stats-beta-opal.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Github Activity" width="49%">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Njoroge&layout=compact&count_private=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Njoroge&layout=compact&count_private=true&theme=gruvbox" alt="Top Langs" />
 </div>
+
 
 <h2>  💻 Technologies & Tools: </h2>
 <p>
