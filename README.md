@@ -23,7 +23,7 @@
 <h2>📈 &nbsp;Activities</h2>
 <div>
 <img src="https://streak-stats.demolab.com/?user=Michael-Njoroge" alt="Michael's Activity Graph" width="49%">
-    <img src="https://github-readme-stats-beta-opal.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Github Activity" width="49%">
+ <img src="https://github-readme-stats-beta-opal.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Github Activity" width="49%">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Njoroge&layout=compact&count_private=true&theme=gruvbox" />
 </div>
 
