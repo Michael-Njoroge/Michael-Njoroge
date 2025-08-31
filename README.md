@@ -4,7 +4,7 @@
 📚 2025 Goals:
 * 🌍 Contributing more to open-source projects
 * 📱 Expanding my expertise in mobile development & cloud technologies
-* 💻 Focusing on everything PHP, Laravel, JavaScript, and Vue-related
+* 💻 Focusing on everything PHP, Laravel, Java Spring Boot, JavaScript, and Vue-related
 * 🚀 Applying my skills to real-life, impactful projects
   
 🌟 Interests:
