@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm <b>Michael Njoroge</b>! <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
-## 🐱‍💻 Coding my way through PHP (Laravel) 💻, Java(Spring Boot), JavaScript (Vue) ⚡️💚💖
+## 🐱‍💻 Coding my way through PHP (Laravel) 💻, Java(Spring Boot), JavaScript (Vue & React) ⚡️💚💖
 
 📚 2025 Goals:
 * 🌍 Contributing more to open-source projects
