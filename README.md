@@ -18,7 +18,7 @@
  <a href="https://wa.me/+254716002152" target="_blank" rel="noopener noreferrer">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
- <a href="https://github.com/Michael-Njoroge/Michael-Njoroge/raw/main/CV%20File.pdf" target="_blank" rel="noopener noreferrer">
+ <a href="https://github.com/Michael-Njoroge/Michael-Njoroge/raw/main/Resume%20Latest.pdf" target="_blank" rel="noopener noreferrer">
     <img alt="Resume" src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </center>
