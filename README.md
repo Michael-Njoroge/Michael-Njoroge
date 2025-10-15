@@ -11,6 +11,7 @@
 * 🤝 Collaborating with developers & sharing knowledge
 * ☕ Coffee enthusiast
 * 🎶 Music lover
+  
 <h2>🎯 Let's Keep in Touch:</h2>
 <center>
   <a href="mailto:mikethecoder12@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
