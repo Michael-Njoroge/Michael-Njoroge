@@ -29,12 +29,9 @@
 
 <h2>📈 &nbsp;Activities</h2>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="Michael-Njoroge" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&locale=en&private=true" alt="Michael-Njoroge" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Njoroge&private=true&theme=chartreuse-dark&" alt="Michael-Njoroge" /></p>
-
+  <p><img align="left" src="https://my-github-readme-stats-rho.vercel.app/api/top-langs?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="Michael-Njoroge" /></p>
+  <p>&nbsp;<img align="center" src="https://my-github-readme-stats-rho.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&locale=en&count_private=true" alt="Michael-Njoroge" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Njoroge&theme=chartreuse-dark" alt="Michael-Njoroge" /></p>
 </div>
 
 
