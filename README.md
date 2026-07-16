@@ -2,15 +2,21 @@
 
 ## 🐱‍💻 Senior Full-Stack Engineer | DevOps & Multi-Tenant SaaS Specialist 🚀
 
-I am a Senior Full-Stack Engineer with 4+ years of experience designing, scaling, and engineering production-grade, multi-tenant SaaS platforms across fintech, edtech, and logistics. I specialize in building highly secure backend architectures, real-time tracking systems, and automated GitOps/CI-CD pipelines.
+I am a Senior Full-Stack Engineer with 4+ years of experience designing, scaling, and engineering production-grade, multi-tenant SaaS platforms across fintech, edtech, and logistics[cite: 1]. I specialize in building highly secure backend architectures, real-time tracking systems, and automated GitOps/CI-CD pipelines[cite: 1].
 
-* 🛠️ **Current Focus:** Advanced Laravel, React, Vue 3, and TypeScript ecosystems.
-* 🔒 **DevSecOps:** Hardening multi-tenant systems, database scaling, data isolation, and Kubernetes infrastructure.
+* 🛠️ **Current Focus:** Advanced Laravel, React, Vue 3, and TypeScript ecosystems[cite: 1].
+* 🔒 **DevSecOps:** Hardening multi-tenant systems, database scaling, data isolation, and Kubernetes infrastructure[cite: 1].
 
 ---
 
-### 🚀 Flagship Solo Product
-* **[TechMart Africa](https://portfolio.techmartafrica.org):** A production-grade multi-tenant SaaS POS platform self-hosted on Hetzner via Easypanel/Docker. Built end-to-end featuring split-payment workflows, automated historical payroll engines for 800+ employees, AI-powered generation via Gemini, real-time WebSockets, and zero-leak multi-tenant security regression testing[cite: 1].
+### 🚀 Flagship Solo Product: TechMart Africa
+A production-grade, multi-tenant SaaS POS and E-commerce platform self-hosted on Hetzner via Easypanel/Docker[cite: 1]. It features split-payment workflows, automated historical payroll engines for 800+ employees, AI-powered content generation via Gemini, real-time WebSockets, and zero-leak multi-tenant security regression testing[cite: 1].
+
+*   🌐 **Storefront:** [techmartafrica.org](https://techmartafrica.org)
+*   🏪 **POS System:** [pos.techmartafrica.org](https://pos.techmartafrica.org)
+    *   *⚡ **Quick Demo Access:** Simply click the **"Autofill Demo Credentials"** button on the login screen to instantly log in and test-drive the platform!*
+
+---
 
 📚 2026 Goals:
 * 🌍 Contributing heavily to advanced open-source tools and backend packages
@@ -72,9 +78,11 @@ I am a Senior Full-Stack Engineer with 4+ years of experience designing, scaling
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
 
-<h2>📈 &nbsp;Activities</h2>
-<div>
-  <p><img align="left" src="https://my-github-readme-stats-rho.vercel.app/api/top-langs?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="Michael-Njoroge" /></p>
-  <p>&nbsp;<img align="center" src="https://my-github-readme-stats-rho.vercel.app/api?username=Michael-Njoroge&theme=chartreuse-dark&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Michael-Njoroge" /></p>
-  <p><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Njoroge&theme=chartreuse-dark&hide_border=true&area=true" alt="Michael-Njoroge" /></p>
-</div>
+<h2>📅 GitHub Contributions</h2>
+
+<!-- Native GitHub Contribution Grid (Always loads perfectly) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michael-Njoroge/Michael-Njoroge/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michael-Njoroge/Michael-Njoroge/output/github-contribution-grid-snake.svg">
+  <img alt="Michael's Github Contributions" src="https://raw.githubusercontent.com/Michael-Njoroge/Michael-Njoroge/output/github-contribution-grid-snake.svg">
+</picture>
