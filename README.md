@@ -82,7 +82,5 @@ A production-grade, multi-tenant SaaS POS and E-commerce platform self-hosted on
 
 <!-- Native GitHub Contribution Grid (Always loads perfectly) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michael-Njoroge/Michael-Njoroge/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michael-Njoroge/Michael-Njoroge/output/github-contribution-grid-snake.svg">
-  <img alt="Michael's Github Contributions" src="https://raw.githubusercontent.com/Michael-Njoroge/Michael-Njoroge/output/github-contribution-grid-snake.svg">
+<p><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Njoroge&theme=chartreuse-dark&hide_border=true&area=true" alt="Michael-Njoroge" /></p>
 </picture>
