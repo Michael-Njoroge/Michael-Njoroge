@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm <b>Michael Njoroge</b>! <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
 
-## 🐱‍💻 Senior Full-Stack Engineer | DevOps & Multi-Tenant SaaS Specialist 🚀
+## 🐱‍💻 Senior Full-Stack Engineer & Multi-Tenant SaaS Specialist 🚀
 
 I am a Senior Full-Stack Engineer with 4+ years of experience designing, scaling, and engineering production-grade, multi-tenant SaaS platforms across fintech, edtech, and logistics[cite: 1]. I specialize in building highly secure backend architectures, real-time tracking systems, and automated GitOps/CI-CD pipelines[cite: 1].
 
