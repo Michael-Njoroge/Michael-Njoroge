@@ -66,7 +66,7 @@ The platform includes offline-first POS workflows, inventory reconciliation, spl
     <img alt="Portfolio" src="https://img.shields.io/badge/View_Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Michael-Njoroge/Michael-Njoroge/raw/main/Resume%20Latest.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Michael-Njoroge/Michael-Njoroge/raw/main/Michael_Njoroge_Master_CV.pdf" target="_blank" rel="noopener noreferrer">
     <img alt="Resume" src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </center>
